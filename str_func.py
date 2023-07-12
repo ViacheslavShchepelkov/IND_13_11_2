@@ -8,7 +8,6 @@ def get_upper_str(user_string):
 
 def get_title_str(user_string):
     """
-
     :param user_string:
     :return:
     """
